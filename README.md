@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dark</h1>
-<h3 align="center">____ ____ / _ \ ______ / _ \ ( <_> ) /_____/ ( <_> ) \____/ \____/</h3>
+
 
 - 🌱 I’m currently learning **Rust, Go**
 
